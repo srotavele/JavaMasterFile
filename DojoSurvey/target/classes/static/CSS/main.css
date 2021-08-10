@@ -1,0 +1,10 @@
+.mainContent {
+	width: 30vw;
+	height: 100vh;
+}
+.formContent {
+	width: 90%;
+}
+.error{
+	color: red;
+}
