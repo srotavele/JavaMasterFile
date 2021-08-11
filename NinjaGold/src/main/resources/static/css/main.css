@@ -1,0 +1,28 @@
+.boxes {
+	text-align: center;
+	border: 2px solid black;
+	width: 150px;
+	margin: 5px;
+	
+}
+.actions{
+	display: flex;
+	padding-top: 20px;
+	margin: 5px;
+	
+}
+.activities {
+	padding-top: 20px;
+	margin: 10px;
+	width: 50vw;
+}
+.container {
+	margin: 20px;
+	justify-content: center;
+	
+}
+.gold {
+	display: flex;
+	width: 30vw;
+	border: 2px solid black;
+}
